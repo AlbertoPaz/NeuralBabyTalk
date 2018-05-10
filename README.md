@@ -2,6 +2,7 @@ The goal of this project is to use NBT as a starting point to develop a PyTorch 
 - In future work will be interesting to also incorporate a way to apply filters to the input images and think of some use for the work of [Variational Autoencoders...]() for representing sentences in a continuous space.
 
 [Fork](https://guides.github.com/activities/forking/) means producing a personal copy of someone else’s project. A fork can be used to contribute to someone else’s project. Or to use that project as a starting point for your own.
+- (github tutorial)[https://services.github.com/on-demand/)
 
 
 ___
