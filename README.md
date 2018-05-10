@@ -1,5 +1,6 @@
 The goal of this project is to use NBT as a starting point to develop a PyTorch implementation of the Neural snap and neural story teller models.
 - In future work will be interesting to also incorporate a way to apply filters to the input images and think of some use for the work of [Variational Autoencoders...]() for representing sentences in a continuous space.
+___
 
 # Neural Baby Talk
 
